@@ -1,0 +1,37 @@
+/* p{
+    text-shadow: 1px 1px 0px;
+} */
+p{
+    background-color: #eeeeee;
+    color: #666666;
+    text-shadow: -1px 1px 0px silver;
+}
+p::first-letter{
+    color: springgreen;
+    font-size: 100px;
+    text-shadow: -3px 1px 0px black;
+}
+.hi::first-line{
+    color: blueviolet;
+    font-weight: 80px;
+    text-shadow: 1px 1px 0px indianred;
+}
+a:link{
+    color: deeppink;
+    text-decoration: none;
+}
+a:visited{
+    color: black;
+} 
+input:hover{
+    background-color: red;
+}
+input:focus{
+    background-color: chartreuse;
+
+}button:active{
+    background-color: cyan;
+}
+i[class~="dog"]{
+    color: royalblue;
+}

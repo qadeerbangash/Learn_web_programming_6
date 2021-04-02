@@ -1,0 +1,37 @@
+/* .abc{
+    border: 10px dashed red;
+    margin: 0 auto;
+    display: inline;
+}
+.abcd{
+    
+    border: 10px dotted red;
+    margin: 0 auto;
+    display: inline;
+} */
+li{
+    display: inline;
+    margin-right: 10px;
+    background-color: peru;
+    margin: 5px;
+    padding: 10px;
+}
+.non{
+    visibility: hidden;
+}
+/* .non{
+display: none;
+} */
+h1{
+    font-size: 100px;
+    text-align: center;
+    color: brown;
+    text-shadow: 2px 2px 0px black;
+}
+div{
+    width: 70%;
+    border: 5px solid crimson;
+    box-shadow: -5px 5px 3px gray;
+    border-radius: 10px;
+    margin: 0 auto;
+}

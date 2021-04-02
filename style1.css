@@ -1,0 +1,39 @@
+img{
+    width: 100%;
+}
+.main{
+    min-width: 1000px;
+    max-width: 700px;
+    background-color: silver;
+    border: 2px solid red;
+}
+.min{
+    width: 200px;
+    min-height: 100px;
+    max-height: 400px;
+    background-color: silver;
+    border: 2px solid red;
+    overflow: scroll;
+}
+.ab{
+    background-color: lightgreen;
+    border:2px solid red;
+    width: 50%;
+}
+p{
+    background-color: violet;
+    padding: 10px ;
+    margin: 20px;
+    border: 5px solid blue;
+}
+.two{
+    width: 50%;
+    border: 10px double blue;
+    margin: 10px auto 10px auto;
+}
+p.one{
+    width: 50%;
+    border: 10px ridge peru;
+    margin: 0 auto;
+}
+
